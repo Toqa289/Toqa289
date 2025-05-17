@@ -21,11 +21,12 @@ I'm a passionate <strong>software tester</strong> and computer science student a
 
 ---
 
-### 📫 Let's connect  
+### 📫 Let's connect
 <p>  
 <a href="https://www.facebook.com/toqa.hussen?locale=ar_AR"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>  
 <a href="https://www.linkedin.com/in/toqa-hussien2892/"><img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>  
 <a href="https://www.instagram.com/toqa_hussein289/"><img src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>  
+<a href="mailto:toqahussen2468@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>  
 </p>
 
 ---
